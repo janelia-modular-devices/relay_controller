@@ -80,7 +80,7 @@ void startSpikeAndHoldCallback();
 
 void stopPulseWaveCallback();
 
-uint32_t arrayToChannels(ArduinoJson::JsonArray& channels_array);
+uint32_t arrayToChannels(ArduinoJson::JsonArray & channels_array);
 
 PulseInfo spikeAndHold(int index,
                        uint32_t delay,
