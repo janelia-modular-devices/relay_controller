@@ -1,0 +1,3 @@
+[submodule "hardware/relay_controller_5x3"]
+	path = hardware/relay_controller_5x3
+	url = https://github.com/janelia-kicad/relay_controller_5x3.git
